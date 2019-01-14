@@ -1,0 +1,10 @@
+C:\Users\n1kita\Desktop\C-Sharp-master\5\GetUserName\bin\Debug\GetUserName.exe.config
+C:\Users\n1kita\Desktop\C-Sharp-master\5\GetUserName\bin\Debug\GetUserName.exe
+C:\Users\n1kita\Desktop\C-Sharp-master\5\GetUserName\bin\Debug\GetUserName.pdb
+C:\Users\n1kita\Desktop\C-Sharp-master\5\GetUserName\obj\Debug\GetUserName.csprojAssemblyReference.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\5\GetUserName\obj\Debug\GetUserName.Properties.Resources.resources
+C:\Users\n1kita\Desktop\C-Sharp-master\5\GetUserName\obj\Debug\GetUserName.csproj.GenerateResource.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\5\GetUserName\obj\Debug\GetUserName.csproj.CoreCompileInputs.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\5\GetUserName\obj\Debug\GetUserName.exe
+C:\Users\n1kita\Desktop\C-Sharp-master\5\GetUserName\obj\Debug\GetUserName.pdb
+C:\Users\n1kita\Desktop\C-Sharp-master\5\GetUserName\obj\Debug\GetUserName.Form1.resources
